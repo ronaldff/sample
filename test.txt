@@ -1,1 +1,3 @@
-this is the text file
+this is the text file and want other information in it
+
+I want two fixed this issues
